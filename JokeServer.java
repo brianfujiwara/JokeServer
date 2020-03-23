@@ -9,13 +9,7 @@
 3. Precise command-line compilation examples / instructions:
 
 
-> javac JokeServer.java
-> javac JokeClient.java
-> javac JokeClientAdmin.java
 
-> java JokeServer
-> java JokeClient <servername> 
-> java JokeClientAdmin  <servername>
 
 
 4. Precise examples / instructions to run this program:
@@ -30,14 +24,11 @@ In separate shell windows:
 
 All acceptable commands are displayed on the various consoles.
 
-This runs across machines, in which case you have to pass the IP address of
-the server to the clients. For exmaple, if the server is running at
-140.192.1.22 then you would type:
 
-Only have one server running.
 
-> java JokeClient 140.192.1.22
-> java JokeClientAdmin 140.192.1.22
+
+
+
 
 5. List of files needed for running the program.
 
