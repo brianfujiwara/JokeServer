@@ -5,45 +5,6 @@
 2. Java build 9.0.1:
 
 
-
-3. Precise command-line compilation examples / instructions:
-
-
-
-
-
-4. Precise examples / instructions to run this program:
-
-e.g.:
-
-In separate shell windows:
-
-> java JokeServer 
-> java JokeClient = After typing the name, click Enter, Then Click Enter again to start connection with Server
-> java JokeClientAdmin = After typing in the mode Click Enter and then Enter again for the Admin to ask for a different server mode.
-
-All acceptable commands are displayed on the various consoles.
-
-
-
-
-
-
-
-5. List of files needed for running the program.
-
-
- a. checklist.html
- b. JokeServer.java
- c. JokeClient.java
- d. JokeClientAdmin.java
-
-5. Notes:
-
-
-
-Only Have one server. For client and admin after the initial input click enter and enter again to connect to server. 
-
 ----------------------------------------------------------*/
 
 
